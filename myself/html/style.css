@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    background-color: rgb(113, 249, 249);
+    background-image: none;
+    padding: width 30px, height 30px
+    margin:50px
+}
